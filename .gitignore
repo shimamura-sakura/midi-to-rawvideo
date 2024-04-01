@@ -1,0 +1,3 @@
+include-bass/*.h
+lib64-bass/*.so
+main
